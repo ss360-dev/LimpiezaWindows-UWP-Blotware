@@ -1,0 +1,9 @@
+
+---
+
+### ✅ `.gitattributes` (para forzar codificación UTF-8-BOM)
+
+```gitattributes
+*.ps1 text eol=crlf working-tree-encoding=UTF-8-BOM
+*.txt text eol=crlf
+*.md  text eol=lf
