@@ -1,0 +1,30 @@
+LICENCIA DE USO RESTRINGIDO
+
+Copyright (c) 2024 SS 360 SAS
+
+Todos los derechos reservados.
+
+Este software y sus archivos relacionados, incluyendo pero no limitados a scripts, documentación y logotipos, son propiedad exclusiva de SS 360 SAS. Su uso está sujeto a las siguientes condiciones:
+
+1. USO AUTORIZADO:
+   - El uso de este software está estrictamente restringido a personas o entidades que cuenten con autorización previa y por escrito de SS 360 SAS.
+   - No se permite su distribución, modificación, reproducción ni ejecución sin dicha autorización.
+
+2. USO PROHIBIDO:
+   - Está expresamente prohibido utilizar este software con fines comerciales, educativos o de investigación sin el consentimiento explícito de SS 360 SAS.
+   - El uso no autorizado constituye una violación de derechos de autor y puede derivar en acciones legales.
+
+3. LIMITACIÓN DE RESPONSABILIDAD:
+   - Este software se proporciona "tal cual", sin garantías de ningún tipo, explícitas o implícitas.
+   - SS 360 SAS no se hace responsable de daños derivados del uso indebido o no autorizado de este software.
+
+4. CONTACTO:
+   Para obtener autorización de uso o licencias comerciales, contactar a:
+
+   SS 360 SAS
+   📧 soporte@ss360.co
+   🌐 https://ss360.co
+   📞 +57 300 787 3211
+
+Cualquier uso no contemplado en este documento será considerado ilegal y perseguido conforme a la legislación aplicable en Colombia y convenios internacionales de protección intelectual.
+
